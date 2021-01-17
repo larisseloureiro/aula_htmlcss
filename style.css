@@ -11,6 +11,27 @@ body{
   border: 1px solid #505050;
   width: 20%;
 }
+.imgGitHub{
+  border-radius: 100px;
+  margin-top: 15px;
+  margin-right: 5px;
+  border: 1px solid #505050;
+  width: 12%;
+}
+.imgGmail{
+  border-radius: 100px;
+  margin-top: 15px;
+  margin-right: 5px;
+  border: 1px solid #505050;
+  width: 12%;
+}
+.imgLinkedIn{
+  border-radius: 100px;
+  margin-top: 15px;
+  margin-right: 5px;
+  border: 1px solid #505050;
+  width: 10%;
+}
 
 #title, .subtitle, .post_title{
   color: #505050;
@@ -39,7 +60,7 @@ body{
   margin: 0;
   margin-bottom: 15px;
   text-transform: capitalize;
-  text-align: justify;
+  text-align: center;
 }
 
 .post_img{
